@@ -15,7 +15,10 @@ background-size: cover;
   main {
     margin: 80px 0;
   }
-  
+  #contact{
+    margin-left:100px;
+  margin-right: 800px;
+  }
 #education {
   background-color: oldlace;
   position: absolute;

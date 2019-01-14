@@ -2,7 +2,7 @@
 body {
       
     font-family:Frank Ruhl Libre;
-    background: url(https://images.unsplash.com/photo-1491591462767-3b91b2a19487?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=292ff72fab5e3fd39c50bdd756a17871&auto=format&fit=crop&w=1350&q=80);
+    background: url();
     background-repeat: no-repeat;
 background-size: cover;
   }
@@ -24,7 +24,7 @@ background-size: cover;
     padding-left: 40px;
     padding-right: 40px;
     margin-bottom: 30px;
-    border: 2px solid rgb(243, 243, 98);
+    border: 2px solid rgb(148, 211, 248);
   }
   
   .block-header {
@@ -89,13 +89,13 @@ background-size: cover;
   
   .text-muted-footer {
     margin-top: 15px;
-    color: #fff;
+    color:white;
   }
   
   .two-toned-footer-color {
     height: 6px;
     padding-top: 3px;
-    background-color: green;
+    /* background-color: green; */
   }
  
   .about-me-header {
@@ -115,6 +115,8 @@ background-size: cover;
   .port-image {
     margin: 20px auto;
   }
+
+
 
   .form-control {
     border-radius: 0;

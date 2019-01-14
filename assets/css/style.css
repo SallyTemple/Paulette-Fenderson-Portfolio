@@ -16,10 +16,25 @@ background-size: cover;
     margin: 80px 0;
   }
   
-
+#education {
+  background-color: oldlace;
+  position: absolute;
+  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 60px;
+  margin-top: 300px;
+  margin-left:100px;
+  margin-right: 800px;
+  margin-bottom:500px;
+    transform: translate(50%, -5%);
+    font-size: 20px;
+    
+    
+}
   
   .block {
-    background-color: #fff;
+    background-color: oldlace;
     padding-bottom: 100px;
     padding-top: 40px;
     padding-left: 40px;

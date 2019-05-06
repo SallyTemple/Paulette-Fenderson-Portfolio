@@ -2,7 +2,7 @@
 body {
       
     font-family:Frank Ruhl Libre;
-    background-image: url(../images/Beach5.jpg);
+    background-image: url(../images/Beach7.jpg);
     background-repeat: no-repeat;
 background-size: cover;
   }
@@ -178,5 +178,5 @@ background-size: cover;
     bottom: 0;
     width: 100%;
     height: 60px;
-    background-color: lightblue;
+    background-color: rgb(238, 231, 223);
   }

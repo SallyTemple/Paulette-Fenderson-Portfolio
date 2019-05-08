@@ -20,13 +20,16 @@ background-size: cover;
   margin-right: 800px;
   }
 #education {
+  margin-top: 100px;
   background-color: oldlace;
   padding-left: 25px;
-  padding-bottom: 50px;
-  padding-top: 10px;
-  padding-right: 1px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-right: 40px;
   margin-right: 400px;
   margin-left:10px;
+  margin-bottom:500px;
+  /* text-align: center; */
 
   /* position: absolute;
   margin-top: 300px;
@@ -133,7 +136,14 @@ background-size: cover;
     padding-top: 3px;
     /* background-color: green; */
   }
- 
+ #about-me{
+  padding-top: 10px;
+  padding-left: 150px;
+  padding-right: 40px;
+  margin-right: 50px;
+  margin-left: 5px;
+
+ }
   .about-me-header {
     margin-bottom: 33px;
     font-family: Frank Ruhl Libre;
